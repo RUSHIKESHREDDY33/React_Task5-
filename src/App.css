@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #715f5f;
+  background-color: #000000;
   color: #333;
 }
 
@@ -27,7 +27,7 @@ h2 {
 }
 
 p {
-  color: #666;
+  color: white;
 }
 h1{
   color: white;
